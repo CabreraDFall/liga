@@ -656,6 +656,26 @@ input::placeholder {
   .stats-grid {
     grid-template-columns: 1fr;
   }
+  
+  .card-header {
+    flex-direction: column;
+    gap: var(--space-md);
+    align-items: stretch;
+  }
+  
+  .card-header > div {
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .card-header input {
+    max-width: 100% !important;
+    width: 100%;
+  }
+  
+  .card-header button {
+    width: 100%;
+  }
 }
 
 /* Scrollbar Styling */
