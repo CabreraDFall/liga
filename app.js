@@ -102,7 +102,12 @@ const initialMatches = [
     { player1: "Braulio", score1: 3, player2: "Jefferson", score2: 0 },
     { player1: "David", score1: 2, player2: "Jefferson", score2: 1 },
     { player1: "Jefferson", score1: 2, player2: "Juan", score2: 1 },
-    { player1: "Ángel", score1: 3, player2: "Tsezar", score2: 0 }
+    { player1: "Ángel", score1: 3, player2: "Tsezar", score2: 0 },
+    { player1: "Pepe", score1: 1, player2: "Alberto", score2: 2 },
+    { player1: "Alberto", score1: 3, player2: "Tsezar", score2: 0 },
+    { player1: "Carlos", score1: 2, player2: "Alberto", score2: 1 },
+    { player1: "Carlos", score1: 3, player2: "Ángel", score2: 0 },
+    { player1: "Carlos", score1: 2, player2: "Edwin", score2: 1 }
 
 ];
 
